@@ -1,5 +1,5 @@
 <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
   <ellipse cx="30" cy="50" rx="20" ry="10" fill="#55ff55;"/>
   <ellipse cx="70" cy="50" rx="20" ry="10" fill="#55ff55;"/>
-  <line x1="50" y1="50" x2="50" y2="0" fill="none" stroke="#000" />
+  <line x1="50" y1="50" x2="50" y2="100" fill="none" stroke="#000" />
 </svg>
