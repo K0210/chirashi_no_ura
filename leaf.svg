@@ -2,6 +2,6 @@
   <ellipse cx="30" cy="50" rx="20" ry="10" fill="rgb(85,255,85)"/>
   <ellipse cx="70" cy="50" rx="20" ry="10" fill="rgb(85,255,85)"/>
   <line x1="50" y1="50" x2="50" y2="100" fill="none" stroke="#545" />
-  <path d="M 10,50 a 40 40 120 0 1 40,0" fill="none" stroke="black"/>
-  <path d="M 50,50 a 40 40 120 0 1 40,0" fill="none" stroke="black"/>
+  <path d="M 10,50 a 40 40 120 0 1 40,0" fill="none" stroke="#6a9"/>
+  <path d="M 50,50 a 40 40 120 0 1 40,0" fill="none" stroke="#6a9"/>
 </svg>
