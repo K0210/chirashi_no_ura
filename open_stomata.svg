@@ -9,6 +9,8 @@
   <ellipse cx="64" cy="64" rx="8" ry="5" fill="rgb(85,255,85)" transform="rotate(-15,100,100)"/>
   <ellipse cx="128" cy="72" rx="8" ry="5" fill="rgb(85,255,85)" transform="rotate(10,100,100)"/>
   <ellipse cx="72" cy="72" rx="8" ry="5" fill="rgb(85,255,85)" transform="rotate(-10,100,100)"/>
+  <ellipse cx="128" cy="128" rx="8" ry="5" fill="rgb(85,255,85)" transform="rotate(-10,100,100)"/>
+  <ellipse cx="72" cy="128" rx="8" ry="5" fill="rgb(85,255,85)" transform="rotate(10,100,100)"/>
   <ellipse cx="64" cy="136" rx="8" ry="5" fill="rgb(85,255,85)" transform="rotate(15,100,100)"/>
   <path d="M 20,100 a 160 160 120 0 1 160,0" fill="transparent" stroke="#6a9"/>
   <path d="M 180,100 a 160 160 -60 0 1 -160,0" fill="transparent" stroke="#6a9"/>
